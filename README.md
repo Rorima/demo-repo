@@ -8,3 +8,7 @@ and I can move on to more advanced topics.
 
 ## Subheader
 Changing the file to learn how to save the changes.
+
+## Local Development
+
+1. Open index.html in your browser.
